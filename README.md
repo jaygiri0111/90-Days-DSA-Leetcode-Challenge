@@ -1,1 +1,1 @@
-# 90-Days-DSA-Leetcode-Challenge
+# DSA-Leetcode-Challenge
