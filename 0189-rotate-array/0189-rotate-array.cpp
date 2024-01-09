@@ -1,29 +1,4 @@
-//Approach - 1
-// class Solution {
-// public:
-//     void rotate(vector<int>& nums, int k) {
-//     int n = nums.size();
-//     reverse(nums.begin(), nums.end());
-//     reverse(nums.begin(),nums.begin()+k);
-//     reverse(nums.begin()+k, nums.end());
-//     }
-// };
-
-//Approach - 2
-// class Solution {
-// public:
-//     void rotate(vector<int>& nums, int k) {
-//     int n = nums.size();
-//     vector<int>temp(nums.size());
-//     for(int i =0; i<n;  i++)
-//     {
-//         temp[(i+k)%n] = nums[i];
-//     }
-//     nums = temp;
-//     }
-// };
-
-//Approach - 3
+//Approach - 1 ----.> Brute force solution
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
@@ -55,5 +30,33 @@ public:
     }
 
 };
+
+//Approach - 2 --> optimal solution
+// class Solution {
+// public:
+//     void rotate(vector<int>& nums, int k) {
+//     int n = nums.size();
+//     vector<int>temp(nums.size());
+//     for(int i =0; i<n;  i++)
+//     {
+//         temp[(i+k)%n] = nums[i];
+//     }
+//     nums = temp;
+//     }
+// };
+
+
+//Approach - 3 ---> Best optimal Solution
+// class Solution {
+// public:
+//     void rotate(vector<int>& nums, int k) {
+//     int n = nums.size();
+//     reverse(nums.begin(), nums.end());
+//     reverse(nums.begin(),nums.begin()+k);
+//     reverse(nums.begin()+k, nums.end());
+//     }
+// };
+
+
 
 //Best Solution on Internet.
