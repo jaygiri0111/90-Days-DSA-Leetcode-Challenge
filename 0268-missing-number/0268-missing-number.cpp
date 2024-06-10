@@ -1,3 +1,4 @@
+/*
 //method 1
 class Solution {
 public:
@@ -13,7 +14,9 @@ public:
         return n;
     }
 };
-
+//time complexity --> O(nlogn)--> used sort function
+//space complexity -> O(1)
+*/
 /*
 // Method 2 using sum method
 class Solution {
@@ -31,5 +34,22 @@ public:
 };
 // Time complexity -> O(n)
 // space complexity -> O(1)
-
 */
+// method 3 using XoR Function
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        int n = nums.size();
+        int ans = 0;
+        for (int i = 0; i < n; i++) {
+            ans = ans ^ nums[i];
+        }
+
+        for (int i = 0; i <=n; i++) {
+            ans = ans ^ i;
+        }
+        return ans;
+
+        // return sum1 - sum2;
+    }
+};
