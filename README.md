@@ -8,6 +8,7 @@
 | [0268-missing-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 # Prefix Sum
 |  |
 | ------- |
@@ -32,10 +33,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0268-missing-number) |
+| [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 # Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 # Sliding Window
 |  |
 | ------- |
