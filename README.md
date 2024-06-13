@@ -10,6 +10,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0792-binary-search) |
 # Prefix Sum
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0792-binary-search) |
 # Bit Manipulation
 |  |
 | ------- |
