@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0792-binary-search) |
+| [0035-search-insert-position](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0035-search-insert-position) |
 # Prefix Sum
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0268-missing-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0792-binary-search) |
+| [0035-search-insert-position](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0035-search-insert-position) |
 # Bit Manipulation
 |  |
 | ------- |
