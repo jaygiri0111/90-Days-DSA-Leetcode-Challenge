@@ -1,80 +1,50 @@
 class Solution {
 public:
-    int first_position(vector<int>nums, int target)
-    {
-        int n= nums.size();
+    int first_occurence(vector<int>& nums, int target) {
         int low = 0;
-        int high = n-1;
-        int ans =-1 ;
-        if(low == high)
-        {
-          if(nums[low]==target)
-            {
-            return 0;
+        int n = nums.size();
+        int high = n - 1;
+        int mid = (low + high) / 2;
+        int ans = -1;
+        while (low <= high) {
+            if (nums[mid] == target) {
+                ans = mid;
+                high = mid - 1;
+            } else if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
-        }
-        int mid = low+(high-low)/2;
-        while(low<=high)
-        {
-            if(nums[mid]==target)
-            {
-              ans = mid;
-              high = mid-1;
-
-            }
-            else if(nums[mid]<target)
-            {
-                low = mid+1;
-            }
-            else
-            {
-                high = mid-1;
-            }
-            mid = low+(high-low)/2;
+            mid = (low + high) / 2;
         }
         return ans;
     }
-     int last_position(vector<int>nums, int target)
-    {
-        int n= nums.size();
-        int low = 0;
-        int high = n-1;
-        int ans1=-1 ;
-        if(low ==high)
-        {
-          if(nums[low]==target)
-            {
-            return  0;
-            }
-        }
-        int mid = low+(high-low)/2;
-        while(low<=high)
-        {
-           
-            if(nums[mid]==target)
-            {
-              ans1 = mid;
-              low = mid+1;
 
+    int last_occurence(vector<int>& nums, int target) {
+        int low = 0;
+        int n = nums.size();
+        int high = n - 1;
+        int mid = (low + high) / 2;
+        int ans = -1;
+        while (low <= high) {
+            if (nums[mid] == target) {
+                ans = mid;
+                low = mid + 1;
+            } else if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
-            else if(nums[mid]<target)
-            {
-                low = mid+1;
-            }
-            else
-            {
-                high = mid-1;
-            }
-            mid = low+(high-low)/2;
+            mid = (low + high) / 2;
         }
-        return ans1;
+        return ans;
     }
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int>ans;
-        int  i =  first_position(nums,target);
-        int  j =  last_position(nums,target);
-        ans = {i,j};
-        
+        vector<int> ans;
+        int first = first_occurence(nums, target);
+        int last = last_occurence(nums, target);
+        ans.push_back(first);
+        ans.push_back(last);
         return ans;
     }
 };
