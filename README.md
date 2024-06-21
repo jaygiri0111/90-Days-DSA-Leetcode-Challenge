@@ -13,6 +13,7 @@
 | [0792-binary-search](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0792-binary-search) |
 | [0035-search-insert-position](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
 # Prefix Sum
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0268-missing-number) |
+| [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
 # Binary Search
 |  |
 | ------- |
@@ -53,3 +55,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0643-maximum-average-subarray-i) |
+# Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
