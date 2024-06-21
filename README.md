@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 # Prefix Sum
 |  |
 | ------- |
@@ -59,3 +60,11 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
