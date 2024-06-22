@@ -31,6 +31,6 @@ public:
                 e = mid;
             }
         }
-        return e;
+        return s;
     }
 };
