@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 # Prefix Sum
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0792-binary-search](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0792-binary-search) |
 | [0035-search-insert-position](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 # Bit Manipulation
 |  |
 | ------- |
