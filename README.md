@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0074-search-a-2d-matrix](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 # Prefix Sum
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0069-sqrtx](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 # Bit Manipulation
 |  |
 | ------- |
