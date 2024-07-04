@@ -88,8 +88,13 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0069-sqrtx) |
+| [0907-koko-eating-bananas](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0029-divide-two-integers) |
+## Array
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
