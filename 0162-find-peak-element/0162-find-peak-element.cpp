@@ -28,6 +28,7 @@ public:
         int n = nums.size();
         int start = 0;
         int end = n - 1;
+        int ans =-1;
         while (start < end) {
             int mid = start + (end - start) / 2;
             if (nums[mid] > nums[mid + 1]) {
@@ -37,6 +38,8 @@ public:
             }
         }
 
-        return end; // This should not be reached for a valid mountain array
+        return end ; // This should not be reached for a valid mountain array
     }
 };
+//T.c = O(logn)
+//S.c = O(1)
