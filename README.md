@@ -90,6 +90,7 @@
 | [0069-sqrtx](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0907-koko-eating-bananas](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [0162-find-peak-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0162-find-peak-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,4 +100,5 @@
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [0162-find-peak-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
