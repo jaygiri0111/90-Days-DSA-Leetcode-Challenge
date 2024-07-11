@@ -91,6 +91,7 @@
 | [0907-koko-eating-bananas](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [0162-find-peak-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,4 +102,17 @@
 | [0907-koko-eating-bananas](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [0162-find-peak-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
