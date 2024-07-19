@@ -119,6 +119,7 @@
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
