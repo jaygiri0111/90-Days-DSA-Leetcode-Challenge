@@ -115,4 +115,12 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
+## String
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
