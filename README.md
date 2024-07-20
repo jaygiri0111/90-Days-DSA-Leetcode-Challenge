@@ -103,6 +103,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [0162-find-peak-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0680-valid-palindrome-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0647-palindromic-substrings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 | [2406-decode-the-message](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2406-decode-the-message) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Stack
 |  |
 | ------- |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
+## Prefix Sum
+|  |
+| ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
