@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2406-decode-the-message](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2406-decode-the-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [0680-valid-palindrome-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0647-palindromic-substrings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
+| [2406-decode-the-message](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2406-decode-the-message) |
 ## Stack
 |  |
 | ------- |
