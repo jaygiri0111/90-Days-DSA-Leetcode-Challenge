@@ -109,6 +109,7 @@
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2406-decode-the-message](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2406-decode-the-message) |
+| [0807-custom-sort-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0807-custom-sort-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0807-custom-sort-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0807-custom-sort-string) |
 ## String
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0647-palindromic-substrings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 | [2406-decode-the-message](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [0807-custom-sort-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0807-custom-sort-string) |
 ## Stack
 |  |
 | ------- |
