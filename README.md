@@ -104,12 +104,14 @@
 | [0162-find-peak-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [0926-find-and-replace-pattern](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0926-find-and-replace-pattern) |
 ## Hash Table
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2406-decode-the-message](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2406-decode-the-message) |
 | [0807-custom-sort-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0807-custom-sort-string) |
+| [0926-find-and-replace-pattern](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0926-find-and-replace-pattern) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [2406-decode-the-message](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [0807-custom-sort-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0807-custom-sort-string) |
+| [0926-find-and-replace-pattern](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0926-find-and-replace-pattern) |
 ## Stack
 |  |
 | ------- |
