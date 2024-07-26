@@ -15,10 +15,13 @@ public:
                 swap(s[i], s[j]);
                 i++;
                 j--;
-            } else if (!isalphabet(s[i])) {
-                i++;
             } else {
-                j--;
+
+                if (!isalphabet(s[i])) {
+                    i++;
+                } else {
+                    j--;
+                }
             }
         }
         return s;
