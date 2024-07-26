@@ -1,4 +1,5 @@
-class Solution {
+// Brute Force - O(nlogn)
+/*class Solution {
 public:
     bool isAnagram(string s, string t) {
         sort(s.begin(), s.end());
@@ -7,5 +8,25 @@ public:
             return true;
         }
         return false;
+    }
+};
+*/
+// optimal solution --> O(n)
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        int freqtable[256] = {0};
+        for (int i = 0; i < s.size(); i++) {
+            freqtable[s[i]]++;
+        }
+        for (int i = 0; i < t.size(); i++) {
+            freqtable[t[i]]--;
+        }
+        for (int i = 0; i < 256; i++) {
+            if (freqtable[i] != 0) {
+                return false;
+            }
+        }
+        return true;
     }
 };
