@@ -120,6 +120,7 @@
 | [0680-valid-palindrome-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0647-palindromic-substrings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 | [0953-reverse-only-letters](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0953-reverse-only-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0926-find-and-replace-pattern](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0926-find-and-replace-pattern) |
 | [0242-valid-anagram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0953-reverse-only-letters](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0953-reverse-only-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
