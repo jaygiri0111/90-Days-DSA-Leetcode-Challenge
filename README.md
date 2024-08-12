@@ -105,6 +105,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [0926-find-and-replace-pattern](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0926-find-and-replace-pattern) |
+| [0001-two-sum](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0001-two-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0807-custom-sort-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0926-find-and-replace-pattern) |
 | [0242-valid-anagram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [0001-two-sum](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0001-two-sum) |
 ## Two Pointers
 |  |
 | ------- |
