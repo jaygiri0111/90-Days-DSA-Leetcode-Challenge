@@ -109,6 +109,7 @@
 | [0001-two-sum](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0242-valid-anagram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0001-two-sum](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0807-custom-sort-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0807-custom-sort-string) |
 | [0242-valid-anagram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -176,4 +179,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
