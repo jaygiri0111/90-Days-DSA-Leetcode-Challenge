@@ -12,14 +12,9 @@ public:
             }
         }
 
-        // step - 02 row wise reverse
-        for (int i = 0; i < row; i++) {
-            int left = 0, right = row - 1;
-            while (left < right) {
-                swap(matrix[i][left], matrix[i][right]);
-                left++;
-                right--;
-            }
-        }
+      for(int i=0; i<row; i++)
+      {
+        reverse(matrix[i].begin(),matrix[i].end());
+      }
     }
 };
