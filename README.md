@@ -108,6 +108,7 @@
 | [0926-find-and-replace-pattern](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0926-find-and-replace-pattern) |
 | [0001-two-sum](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
+| [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0926-find-and-replace-pattern](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0926-find-and-replace-pattern) |
 | [0242-valid-anagram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0001-two-sum](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0807-custom-sort-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0807-custom-sort-string) |
 | [0242-valid-anagram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -165,4 +168,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
