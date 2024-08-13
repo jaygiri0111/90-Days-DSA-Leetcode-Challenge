@@ -84,6 +84,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0029-divide-two-integers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [0926-find-and-replace-pattern](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0926-find-and-replace-pattern) |
 | [0001-two-sum](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
