@@ -85,6 +85,7 @@
 | [0069-sqrtx](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0029-divide-two-integers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
