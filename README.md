@@ -110,6 +110,7 @@
 | [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
