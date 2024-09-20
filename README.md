@@ -113,6 +113,7 @@
 | [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [0088-merge-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0647-palindromic-substrings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 | [0953-reverse-only-letters](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0953-reverse-only-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0088-merge-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0242-valid-anagram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
+| [0088-merge-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
