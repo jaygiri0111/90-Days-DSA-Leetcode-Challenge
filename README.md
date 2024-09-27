@@ -202,6 +202,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0141-linked-list-cycle](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0141-linked-list-cycle) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
