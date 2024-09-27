@@ -6,22 +6,42 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+// class Solution {
+// public:
+//     bool hasCycle(ListNode *head) {
+//         unordered_map<ListNode*, bool>mpp;
+//         ListNode* temp = head;
+
+//         while(temp!=NULL){
+//             if(mpp[temp]==true)
+//             {
+//                 return true;
+//             }
+//             else
+//             {
+//                 mpp[temp] = true;
+//             }
+//             temp = temp->next;
+//         }
+//         return false;
+//     }
+// };
+
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        unordered_map<ListNode*, bool>mpp;
-        ListNode* temp = head;
+        ListNode* fast = head;
+        ListNode* slow = head;
 
-        while(temp!=NULL){
-            if(mpp[temp]==true)
+        while(fast!=NULL)
+        {
+            fast = fast->next;
+            if(fast!=NULL)
             {
-                return true;
+                fast = fast->next;
+                slow = slow->next;
             }
-            else
-            {
-                mpp[temp] = true;
-            }
-            temp = temp->next;
+            if(slow == fast) return true;
         }
         return false;
     }
