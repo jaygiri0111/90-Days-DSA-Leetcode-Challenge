@@ -139,6 +139,7 @@
 | [0027-remove-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0027-remove-element) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0908-middle-of-the-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [0234-palindrome-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -196,8 +198,10 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0908-middle-of-the-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
