@@ -26,6 +26,7 @@ public:
             if(temp->val==prev->val)
             {
                 prev->next = temp->next;
+                temp->next = NULL;
                 delete temp;
             }
             else
