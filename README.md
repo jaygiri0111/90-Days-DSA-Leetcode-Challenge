@@ -116,6 +116,7 @@
 | [0088-merge-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0027-remove-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0027-remove-element) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
+| [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
 | ------- |
