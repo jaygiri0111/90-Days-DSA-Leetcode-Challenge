@@ -117,6 +117,7 @@
 | [0027-remove-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0027-remove-element) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0141-linked-list-cycle](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0141-linked-list-cycle) |
+| [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [0088-merge-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
