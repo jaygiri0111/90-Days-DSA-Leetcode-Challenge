@@ -119,6 +119,7 @@
 | [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0031-next-permutation](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0234-palindrome-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0141-linked-list-cycle](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [0031-next-permutation](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
