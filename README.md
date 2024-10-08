@@ -94,10 +94,12 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [0162-find-peak-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Array
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0031-next-permutation](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +151,7 @@
 | [0141-linked-list-cycle](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0031-next-permutation](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
