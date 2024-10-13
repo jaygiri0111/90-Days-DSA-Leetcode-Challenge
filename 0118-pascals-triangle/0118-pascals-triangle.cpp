@@ -1,34 +1,21 @@
 class Solution {
 public:
-    vector<int>pascaltriangle(int row)
-    {
-        //Print the Row 
-        long long ans = 1;
-        vector<int>ansrow;
-        ansrow.push_back(1);
-        for(int col = 1; col<row; col++)
-        {
-            ans =ans*(row-col);
-            ans = ans/col;
-            ansrow.push_back(ans);
+    vector<int> printrow(int n) {
+        int ans = 1;
+        vector<int> res;
+        res.push_back(1);
+        for (int i = 1; i < n; i++) {
+            ans = ans * (n - i);
+            ans = ans / i;
+            res.push_back(ans);
         }
-        return ansrow;
+        return res;
     }
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>>ans;
-        for(int i=1; i<=numRows; i++)
-        {
-            ans.push_back(pascaltriangle(i));
+        vector<vector<int>> ans;
+        for (int i = 1; i <= numRows; i++) {
+            ans.push_back(printrow(i));
         }
-    return ans;
+        return ans;
     }
-
-/*Output 
-1 
-1 1
-1 2 1
-1 3 3 1 
-1 4 6 4 1 
-1 5 10 10 5 1
-*/
 };
