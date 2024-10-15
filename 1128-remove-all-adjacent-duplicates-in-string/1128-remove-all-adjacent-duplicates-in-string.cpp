@@ -1,22 +1,22 @@
 class Solution {
 public:
     string removeDuplicates(string s) {
-        string ans = "";
-        int n = s.length();
+        int n = s.size();
+        string ans ="";
         for(int i =0; i<n; i++)
         {
-            char currentcharacter = s[i];
+            char currentchar = s[i];
             if(ans.empty())
             {
-                ans.push_back(currentcharacter);
+              ans .push_back(currentchar);
             }
-            else if(currentcharacter==ans.back())
+            else if(ans.back()!=currentchar)
+            {
+                ans.push_back(currentchar);
+            }
+            else if(ans.back()==currentchar)
             {
                 ans.pop_back();
-            }
-            else if(currentcharacter!=ans.back())
-            {
-                ans.push_back(currentcharacter);
             }
         }
         return ans;
