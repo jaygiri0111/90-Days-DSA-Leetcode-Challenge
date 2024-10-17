@@ -177,6 +177,7 @@
 | [0242-valid-anagram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0953-reverse-only-letters](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0953-reverse-only-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0014-longest-common-prefix](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -229,4 +230,8 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
