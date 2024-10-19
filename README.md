@@ -136,6 +136,7 @@
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [0141-linked-list-cycle](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0953-reverse-only-letters](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0953-reverse-only-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0014-longest-common-prefix](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
