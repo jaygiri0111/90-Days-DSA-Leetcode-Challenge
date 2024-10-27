@@ -157,6 +157,7 @@
 | [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0031-next-permutation](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0005-longest-palindromic-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [0205-isomorphic-strings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 | [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 | [0049-group-anagrams](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0049-group-anagrams) |
+| [0005-longest-palindromic-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
 ## Stack
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [0053-maximum-subarray](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0118-pascals-triangle](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0118-pascals-triangle) |
+| [0005-longest-palindromic-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
 ## Prefix Sum
 |  |
 | ------- |
