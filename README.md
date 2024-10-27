@@ -137,6 +137,7 @@
 | [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [0141-linked-list-cycle](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
+| [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [0088-merge-sorted-array](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0014-longest-common-prefix](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
+| [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +193,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,6 +219,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
+| [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -236,4 +241,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
