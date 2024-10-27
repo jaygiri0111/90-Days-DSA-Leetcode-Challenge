@@ -9,9 +9,9 @@ public:
             mp[s].push_back(str);
         }
         vector<vector<string>>ans;
-        for(auto it= mp.begin(); it!=mp.end(); it++)
+        for(auto it:mp)
         {
-            ans.push_back(it->second);
+            ans.push_back(it.second);
         }
         return  ans;
     }
