@@ -191,6 +191,7 @@
 | [0049-group-anagrams](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0005-longest-palindromic-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0008-string-to-integer-atoi](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0008-string-to-integer-atoi) |
 ## Stack
 |  |
 | ------- |
