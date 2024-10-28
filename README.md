@@ -158,6 +158,7 @@
 | [0031-next-permutation](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0005-longest-palindromic-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 | [0049-group-anagrams](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0005-longest-palindromic-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -252,4 +254,8 @@
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
