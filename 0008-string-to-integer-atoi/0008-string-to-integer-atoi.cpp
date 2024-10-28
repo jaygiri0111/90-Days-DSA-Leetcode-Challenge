@@ -1,7 +1,7 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        long long int  num = 0;
+        long  num = 0;
         int i = 0, sign = 1; //+ve sign
         while (s[i] == ' ') {
             i++;
