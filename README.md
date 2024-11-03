@@ -86,6 +86,7 @@
 | [0029-divide-two-integers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [0012-integer-to-roman](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0012-integer-to-roman) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0205-isomorphic-strings](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 | [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 | [0049-group-anagrams](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0049-group-anagrams) |
+| [0012-integer-to-roman](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0008-string-to-integer-atoi](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0443-string-compression](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0443-string-compression) |
+| [0012-integer-to-roman](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0012-integer-to-roman) |
 ## Stack
 |  |
 | ------- |
