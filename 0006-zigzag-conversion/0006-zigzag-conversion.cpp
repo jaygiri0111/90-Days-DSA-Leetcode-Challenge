@@ -2,8 +2,9 @@ class Solution {
 public:
     string convert(string s, int numRows) {
         int i = 0, row = 0;
-        bool direction = 1;
-        if(numRows==1) return s;
+        int direction = 1;
+        if (numRows == 1)
+            return s;
         vector<string> zigzag(numRows);
         while (true) {
             if (direction) {
@@ -19,7 +20,7 @@ public:
             }
             if (i >= s.size())
                 break;
-            direction =! direction;
+            direction = !direction;
         }
         string ans = "";
         for (int i = 0; i < zigzag.size(); i++) {
