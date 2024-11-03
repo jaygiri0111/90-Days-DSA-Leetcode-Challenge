@@ -159,6 +159,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0005-longest-palindromic-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0443-string-compression](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0008-string-to-integer-atoi](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0008-string-to-integer-atoi) |
+| [0443-string-compression](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |
