@@ -2,7 +2,7 @@ class Solution {
 public:
     string convert(string s, int numRows) {
         int i = 0, row = 0;
-        int direction = 1;
+        bool direction = 1;// 1-->(T--->B)
         if (numRows == 1)
             return s;
         vector<string> zigzag(numRows);
