@@ -197,6 +197,7 @@
 | [0008-string-to-integer-atoi](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0443-string-compression](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0443-string-compression) |
 | [0012-integer-to-roman](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0012-integer-to-roman) |
+| [0006-zigzag-conversion](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0006-zigzag-conversion) |
 ## Stack
 |  |
 | ------- |
