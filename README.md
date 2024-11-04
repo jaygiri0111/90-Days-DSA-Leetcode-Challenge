@@ -87,6 +87,7 @@
 | [0048-rotate-image](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [0012-integer-to-roman](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0012-integer-to-roman) |
+| [0539-minimum-time-difference](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0539-minimum-time-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0118-pascals-triangle](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0118-pascals-triangle) |
 | [0049-group-anagrams](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0179-largest-number) |
+| [0539-minimum-time-difference](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 | [0049-group-anagrams](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0179-largest-number) |
+| [0539-minimum-time-difference](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | [0012-integer-to-roman](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0012-integer-to-roman) |
 | [0006-zigzag-conversion](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0006-zigzag-conversion) |
 | [0179-largest-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0179-largest-number) |
+| [0539-minimum-time-difference](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0539-minimum-time-difference) |
 ## Stack
 |  |
 | ------- |
