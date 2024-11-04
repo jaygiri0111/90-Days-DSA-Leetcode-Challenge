@@ -126,6 +126,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0118-pascals-triangle](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0118-pascals-triangle) |
 | [0049-group-anagrams](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0075-sort-colors](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 | [0049-group-anagrams](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0179-largest-number) |
 ## String
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0443-string-compression](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0443-string-compression) |
 | [0012-integer-to-roman](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0012-integer-to-roman) |
 | [0006-zigzag-conversion](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0006-zigzag-conversion) |
+| [0179-largest-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
+| [0179-largest-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
