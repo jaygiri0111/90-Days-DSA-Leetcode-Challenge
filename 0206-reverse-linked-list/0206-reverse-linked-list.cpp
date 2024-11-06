@@ -10,25 +10,27 @@
  */
 class Solution {
 public:
-    ListNode* Reversell(ListNode*& prev, ListNode*& curr) {
-        if (curr == NULL) {
+    ListNode*reversedLL(ListNode*curr, ListNode*prev)
+    {
+        if(curr==NULL)
+        {
+            //iska matlab LL reverse ho chuki hai
+            // reversed LL  starting Node prev wla pointer hai
             return prev;
         }
-        
-        ListNode* forward;
-        forward = curr->next;
-        curr->next = prev;
-        prev = curr;
+        ListNode* forward = curr->next;
+        curr->next= prev;
+        prev= curr;
         curr = forward;
 
-        return Reversell(prev, curr);
+        return reversedLL(curr,prev);
+
     }
-
     ListNode* reverseList(ListNode* head) {
-        ListNode* prev = NULL;
+        ListNode* prev= NULL;
         ListNode* curr = head;
-        ListNode* newhead = Reversell(prev, curr);
 
-        return newhead;
+        ListNode* NewHead = reversedLL(curr,prev);
+        return NewHead;
     }
 };
