@@ -10,75 +10,54 @@
  */
 class Solution {
 public:
-    ListNode* getMiddle(ListNode*&head,ListNode*&middleprev)
-    {
-        ListNode* fast = head;
+    ListNode* getmiddle(ListNode* head, ListNode*& middleNodeprev) {
         ListNode* slow = head;
-        while(fast!= NULL)
-        {
+        ListNode* fast = head;
+        while (fast != NULL) {
             fast = fast->next;
-            if(fast!=NULL)
-            {
+            if (fast != NULL) {
                 fast = fast->next;
-                middleprev = slow;
+                middleNodeprev = slow;
                 slow = slow->next;
             }
         }
         return slow;
     }
 
-    ListNode* Reverse(ListNode*&curr, ListNode*&prev)
-    {
-        ListNode* forward;
-        while(curr!=NULL)
-        {
-            forward = curr->next;
+    ListNode* reversell(ListNode* curr, ListNode* prev) {
+        while (curr != NULL) {
+            ListNode* forward = curr->next;
             curr->next = prev;
-
             prev = curr;
-            curr = forward; 
+            curr = forward;
         }
         return prev;
-
     }
-
     bool isPalindrome(ListNode* head) {
-        
-        if(head==NULL)
-        {
-            //LL is empty
-            return true;
-        }
-        if(head->next == NULL)
-        {
-            //single node in LL
-            return true;
-        }
-        
-        //Traversing the  ll and breaking in 2 halves
-        ListNode* firsthead = head;
-        ListNode* middleprev = NULL;
-        ListNode* middlenode = getMiddle(firsthead,middleprev);
-        //Breaking the ll 
-        middleprev->next = NULL;
+        // Traverse till middle node and break it into 2 part
+        ListNode* firstHalfHead = head;
+        ListNode* middleNodeprev = NULL;
+        ListNode* middlenode = getmiddle(head, middleNodeprev);
 
-        //Reversing the ll
-        ListNode * curr = middlenode;
+        // break the LL
+        if(middleNodeprev!=NULL)
+         middleNodeprev->next = NULL;
+
+        // reverse the half part;
         ListNode* prev = NULL;
-        ListNode* secondhead = Reverse(curr, prev);
+        ListNode* curr = middlenode;
+        ListNode* secondHalfHead = reversell(curr, prev);
 
-        //Comparison 
-        ListNode* temphead1 = firsthead;
-        ListNode* temphead2 = secondhead;
-
-        while(temphead1!=NULL)
-        {
-            if(temphead1->val != temphead2->val)
-            {
+        // compare the both half and decide T/f;
+        // comparison hamesa first half ke hisab ke karenge
+        // KYUKI odd wale case mae first half ki lengt second half se kam hoga
+        // and even case mae dono half equal rahega
+        ListNode* temphead1 = firstHalfHead;
+        ListNode* temphead2 = secondHalfHead;
+        while (temphead1 != NULL) {
+            if (temphead1->val != temphead2->val) {
                 return false;
-            }
-            else
-            {
+            } else {
                 temphead1 = temphead1->next;
                 temphead2 = temphead2->next;
             }
