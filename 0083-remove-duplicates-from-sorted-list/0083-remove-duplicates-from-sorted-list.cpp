@@ -20,6 +20,8 @@ public:
              ListNode* temp = prev->next;
             if (prev->val == temp->val) {
                 prev->next = temp->next;
+                temp->next = NULL;
+                delete temp;
             }
             else
             {
