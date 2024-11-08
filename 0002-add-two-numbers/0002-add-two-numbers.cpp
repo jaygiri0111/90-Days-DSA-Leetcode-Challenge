@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* iterativemethod(ListNode*& l1, ListNode* &l2)
+    ListNode* iterativemethod(ListNode* l1, ListNode* l2)
     {
         ListNode*ans = new ListNode(-1);
         ListNode*it = ans;
