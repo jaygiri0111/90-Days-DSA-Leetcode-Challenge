@@ -29,9 +29,7 @@ public:
             l2 = l2 ?l2->next :nullptr;
 
         }
-        ListNode* finalAns= ans->next;
-        delete ans;
-        return finalAns;
+        return ans->next;
     }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         return iterativemethod(l1,l2);
