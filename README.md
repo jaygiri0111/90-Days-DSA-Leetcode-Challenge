@@ -88,6 +88,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [0012-integer-to-roman](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0012-integer-to-roman) |
 | [0539-minimum-time-difference](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0539-minimum-time-difference) |
+| [0002-add-two-numbers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0002-add-two-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,12 +254,14 @@
 | [0141-linked-list-cycle](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
+| [0002-add-two-numbers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0002-add-two-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
+| [0002-add-two-numbers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0002-add-two-numbers) |
 ## Simulation
 |  |
 | ------- |
