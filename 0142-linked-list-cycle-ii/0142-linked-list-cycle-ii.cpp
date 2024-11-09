@@ -30,7 +30,7 @@
 // };
 
 // Apporach-02(Using slow and fast pointer)
-ListNode* hascycle(ListNode* head) {
+ListNode* hascycle(ListNode*&head) {
     ListNode*slow = head;
     ListNode*fast = head;
     while(fast!=NULL)
