@@ -146,6 +146,7 @@
 | [0778-reorganize-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0778-reorganize-string) |
 | [0049-group-anagrams](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0012-integer-to-roman](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0012-integer-to-roman) |
+| [0142-linked-list-cycle-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0443-string-compression) |
+| [0142-linked-list-cycle-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0002-add-two-numbers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0002-add-two-numbers) |
+| [0142-linked-list-cycle-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
