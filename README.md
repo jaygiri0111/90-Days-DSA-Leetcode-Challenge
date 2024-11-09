@@ -258,6 +258,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0002-add-two-numbers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
 | ------- |
