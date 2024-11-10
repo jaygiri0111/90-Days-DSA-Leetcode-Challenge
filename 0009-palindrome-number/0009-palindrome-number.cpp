@@ -1,21 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        long long last_digit, revnum = 0;
-        long long num = x;
-        while(x>0)
-        {
-            last_digit = x % 10;
-            revnum = (revnum*10) + last_digit;
-            x = x / 10;
+        if (x < 0)
+            return false;
+        int n = x;
+        int rev = 0;
+        while (x > 0) {
+            int digit = x % 10;
+            if (rev > (INT_MAX - digit) / 10) {
+                return false; // Overflow would occur, return false
+            }
+            rev = rev * 10 + digit;
+            x /= 10;
         }
-        if(num == revnum)
-        {
+        if (n == rev) {
             return true;
         }
-        else
-        {
-            return false;
-        }
+
+        return false;
     }
 };
