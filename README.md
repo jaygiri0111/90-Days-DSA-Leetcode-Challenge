@@ -89,6 +89,7 @@
 | [0012-integer-to-roman](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0012-integer-to-roman) |
 | [0539-minimum-time-difference](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0539-minimum-time-difference) |
 | [0002-add-two-numbers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0009-palindrome-number) |
 ## Binary Search
 |  |
 | ------- |
