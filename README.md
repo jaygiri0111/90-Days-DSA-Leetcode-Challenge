@@ -260,6 +260,7 @@
 | [0002-add-two-numbers](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0725-split-linked-list-in-parts) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -283,4 +284,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
