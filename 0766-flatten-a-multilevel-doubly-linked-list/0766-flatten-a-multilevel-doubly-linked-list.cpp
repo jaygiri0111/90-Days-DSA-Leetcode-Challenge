@@ -11,7 +11,7 @@ public:
 
 class Solution {
 public:
-   Node* solve(Node*&head)
+   Node* solve(Node*head)
    {
     if(!head) return nullptr;
     auto it = head;
