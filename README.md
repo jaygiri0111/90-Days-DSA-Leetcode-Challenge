@@ -294,4 +294,8 @@
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
