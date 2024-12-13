@@ -299,4 +299,5 @@
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1908-recyclable-and-low-fat-products) |
 | [0584-find-customer-referee](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
