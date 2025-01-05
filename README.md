@@ -131,6 +131,7 @@
 | [0049-group-anagrams](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0539-minimum-time-difference) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [0234-palindrome-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Greedy
 |  |
 | ------- |
@@ -307,4 +309,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [0176-second-highest-salary](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0197-rising-temperature) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
