@@ -306,4 +306,5 @@
 | [1153-product-sales-analysis-i](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1153-product-sales-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [0176-second-highest-salary](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0176-second-highest-salary) |
+| [0197-rising-temperature](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
