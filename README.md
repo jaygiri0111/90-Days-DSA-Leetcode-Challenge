@@ -310,6 +310,7 @@
 | [0176-second-highest-salary](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0197-rising-temperature) |
 | [1801-average-time-of-process-per-machine](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/1801-average-time-of-process-per-machine) |
+| [0577-employee-bonus](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0577-employee-bonus) |
 ## Monotonic Stack
 |  |
 | ------- |
