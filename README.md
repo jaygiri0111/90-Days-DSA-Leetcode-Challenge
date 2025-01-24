@@ -219,6 +219,7 @@
 | [0234-palindrome-linked-list](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0155-min-stack) |
 ## Greedy
 |  |
 | ------- |
@@ -315,4 +316,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/jaygiri0111/90-Days-DSA-Leetcode-Challenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
